@@ -15,7 +15,7 @@
 [Platform Requirements](#platform-requirements)
 
 ## Introduction
-This repository contains our code for the technical optimization of a commercial MVNO (Xiaomi Mobile) from 3 key aspects (data usage prediction, custmer churn prediction and fraud detection), as well as a dataset with limited samples, which is allowed to be disclosed after negotiation with Xiaomi Mobile. Our solution is adjusted for the sampled dataset. Therefore, you'll be able to run codes in this repo with the sampled data.
+This repository contains our code for the technical optimization of a commercial MVNO (Xiaomi Mobile) from 3 key aspects (data usage prediction, custmer churn prediction and fraud detection), as well as a dataset with limited samples, which is allowed to be disclosed after negotiation with Xiaomi Mobile. Our solution is adjusted for the sample dataset. Therefore, you'll be able to run codes in this repo with the sampled data.
 
 ## Codebase Organization
 
