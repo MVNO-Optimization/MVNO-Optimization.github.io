@@ -31,7 +31,7 @@ Dataset `samples-data-usage` contains history data usages (18 months at most) of
 | `id` | Unique ID generated to identify a user (cannot be related to the user's true indentity) |
 | `month_i` | Data usage of a user (in MB) in the i-th month, i ∈ [1,18] |
 
-Dataset `samples-churn-features` contains the 8-dimensional features obtained through feature correlation analysis. Here `age` is discretized by the interval of 10 years, for example, `20` means 20 to 30 years old and the largest discrete value `60` means more than 60 years old:
+Dataset `samples-churn-features` contains the 8-dimensional features obtained through feature correlation analysis (few samples in this dataset lack features). Here `age` is discretized by the interval of 10 years, for example, `20` means 20 to 30 years old and the largest discrete value `60` means more than 60 years old:
 
 | Attribute | Description |
 | ---- | ---- |
