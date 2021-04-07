@@ -1,4 +1,4 @@
-# Code for MVNO Purification and Ooptimization
+# Code for MVNO Purification and Optimization
 
 ## Table of Contents
 [Introduction](#introduction)
