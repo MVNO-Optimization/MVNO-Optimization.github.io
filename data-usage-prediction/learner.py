@@ -70,7 +70,7 @@ def predict(id, testX, testY, clf):
 if __name__ == "__main__":
     # 样本数据集的数据和预测效果仅供参考，模型具体参数视数据集不同而调整
     du_file = open("../data/samples-data-usage.txt", 'r')
-    du_lines = du_file.readlines()
+    du_lines = du_file.readlines()[1:]
     for line in du_lines:
         sarr = line.split(',')
         id = sarr[0]
